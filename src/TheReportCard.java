@@ -1,6 +1,6 @@
 public class TheReportCard{
     public static void main(String[] args) {
-        int marks = 89 ;
+        int marks = 54 ;
         if (marks >= 90){
             System.out.println("A");
         }
