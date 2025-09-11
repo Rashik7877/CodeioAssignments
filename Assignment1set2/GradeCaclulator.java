@@ -1,7 +1,7 @@
 public class GradeCaclulator {
     public static void main(String[] args) {
         int marks = 50;
-        char grade;
+        String grade;
         if (marks >90){
             grade = "A";
             System.out.println(grade);
